@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(179, 179, 209);
+    width: 800px;
+    height: 800px;
+}
+
+#mon_formulaire_magique {
+    border: solid black;
+    background-color: aqua;
+    border-radius: 15px;
+    top: 300px;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    padding: 50px;
+    justify-content: center;
+    left: 700px;
+}
